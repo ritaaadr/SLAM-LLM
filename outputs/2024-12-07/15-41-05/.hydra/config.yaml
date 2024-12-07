@@ -1,0 +1,3 @@
+dataset_config:
+  data_path: audio/processed_audio.wav
+  val_data_path: /path/to/validation_data.jsonl

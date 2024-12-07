@@ -1,0 +1,3 @@
+dataset_config:
+  data_path: audio/processed_audio.wav
+  inference_mode: true
