@@ -1,0 +1,3 @@
+model_config:
+  llm_path: /home/annaritadero/adellarocca/SLAM-LLM/models/vicuna
+  encoder_path: /home/annaritadero/adellarocca/SLAM-LLM/models/hubert_xtralarge.pt

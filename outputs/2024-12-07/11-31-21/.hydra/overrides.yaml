@@ -1,0 +1,2 @@
+- ++model_config.llm_path=/home/annaritadero/adellarocca/SLAM-LLM/models/vicuna
+- ++model_config.encoder_path=/home/annaritadero/adellarocca/SLAM-LLM/models/hubert_xtralarge.pt

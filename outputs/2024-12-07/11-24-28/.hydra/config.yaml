@@ -1,0 +1,2 @@
+dataset_config:
+  data_path: processed_audio.wav
